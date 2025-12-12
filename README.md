@@ -19,9 +19,16 @@ Stop juggling multiple apps, shady websites, or converters.
 [![Version](https://img.shields.io/badge/Release-1.0.0-red)]()
 [![License](https://img.shields.io/badge/License-GPLv3-blue)]()
 
+<br>
+
+<a href="https://github.com/ImKKingshuk/Zytor/releases/download/v1.0.0/zytor-v1.0.0-arm64-v8a.apk">
+ <img width="180" src="https://img.shields.io/badge/Download-APK-blue?logo=android&style=square" alt="Download APK"/>
+
+</a>
 </div>
 
 ## Screenshots
+
 <p align="center">
 <img src="./Images/img1.jpg" width="120" alt="Zytor Img1"/>
 <img src="./Images/img2.jpg" width="120" alt="Zytor Img2"/>
