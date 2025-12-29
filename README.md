@@ -16,12 +16,12 @@ Stop juggling multiple apps, shady websites, or converters.
 <br>
 
 [![Platform](https://img.shields.io/badge/Platform-Android-brightgreen)]()
-[![Version](https://img.shields.io/badge/Release-1.0.0-red)]()
+[![Version](https://img.shields.io/badge/Release-1.1.0-red)]()
 [![License](https://img.shields.io/badge/License-GPLv3-blue)]()
 
 <br>
 
-<a href="https://github.com/ImKKingshuk/Zytor/releases/download/v1.0.0/zytor-v1.0.0-arm64-v8a.apk">
+<a href="https://github.com/ImKKingshuk/Zytor/releases/download/v1.1.0/zytor-v1.1.0-arm64-v8a.apk">
  <img width="180" src="https://img.shields.io/badge/Download-APK-blue?logo=android&style=square" alt="Download APK"/>
 
 </a>
@@ -43,6 +43,16 @@ Stop juggling multiple apps, shady websites, or converters.
 <img src="./Images/img11.jpg" width="120" alt="Zytor Img11"/>
 </p>
 
+## 🚀 What's New (v1.1.0)
+
+- **TurboBolt Engine** : Experience up to **500% faster** downloads with 32x parallelization and 64-segment splitting.
+- **Redesigned Download UI** : Toggle between **Grid (Large/Small)** and **List** views
+- **Tab+Swipe Navigation** : New **Tab+Swipe** navigation for easy access to different modes.
+- **Smart Filtering** : Instantly filter by Video, Audio, or Images
+- **Compact Status Pills** : Compact status pills for realtime download speed, ETA, and size.
+- **Pro Audio Support** : Added native **FLAC, WAV, and ALAC** formats with bitrates up to **320kbps**.
+- **New Platform Support (300+ Total Platforms)** : Added support for over 30+ new platforms across Asian Drama, Indian OTT, and Anime.
+
 ## Features
 
 ### 🎥 Ultimate Video Downloader
@@ -63,9 +73,9 @@ No tricks. No watermarks. No compression surprises.
 
 ### 🎧 Ultimate Audio Downloader
 
-**Formats:** `M4A • Opus • MP3`  
+**Formats:** `MP3 • M4A • Opus • FLAC • WAV • ALAC`
 
-**Qualities:** `Best • 192k • 128k • 64k • 32k • Lowest`
+**Qualities:** `Best • 320kbps • 256kbps • 192kbps • 128kbps • 64kbps • 32kbps • Lowest`
 
 Perfect for:  
 Music • Podcasts • Lectures • DJ mixes • Motivation videos
@@ -86,7 +96,7 @@ Images, thumbnails, posters, reels, covers —
 **Zytor works almost everywhere.**  
 Paste a link. Press download. Done.
 
-**Supported:** YouTube, Twitter/X, Instagram, Facebook, TikTok, Reddit, Vimeo, Bilibili, Dailymotion, Twitch, Snapchat, Weibo, WeChat, RedNote, SoundCloud, Spotify, Apple Music, Netflix, Hulu, Disney+, Amazon Prime Video, Crunchyroll, Mubi, CuriosityStream, BlueSky, Odysee, Mastadon — **and over 250+ platforms.**
+**Supported:** YouTube, Twitter/X, Instagram, Facebook, TikTok, Reddit, Vimeo, Bilibili, Dailymotion, Twitch, Snapchat, Weibo, WeChat, RedNote, SoundCloud, Spotify, Apple Music, Netflix, Hulu, Disney+, Amazon Prime Video, Crunchyroll, Mubi, CuriosityStream, BlueSky, Odysee, Mastodon, Rakuten Viki, iQIYI, Youku, Zee5, SonyLIV, MX Player, HIDIVE, niconico, TVer** — **and over 300+ platforms.**
 
 ### ⚡ Five Modes. Infinite Control
 
@@ -178,6 +188,8 @@ Zytor uses two release channels:
 
 - **Beta** — Experimental features. May contain bugs.  
   *(Example: `v1.5.0-beta`)*
+
+See the full [CHANGELOG.md](./CHANGELOG.md) for a detailed list of changes.
 
 ## ❤️ Support the Project
 
