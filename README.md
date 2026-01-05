@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./Images/icon.png" width="75" alt="Zytor Icon"/>
+<img src="https://zytor.vercel.app/icon.png" width="75" alt="Zytor Icon"/>
 
 # Zytor
 
@@ -30,17 +30,21 @@ Stop juggling multiple apps, shady websites, or converters.
 ## Screenshots
 
 <p align="center">
-<img src="./Images/img1.jpg" width="120" alt="Zytor Img1"/>
-<img src="./Images/img2.jpg" width="120" alt="Zytor Img2"/>
-<img src="./Images/img3.jpg" width="120" alt="Zytor Img3"/>
-<img src="./Images/img4.jpg" width="120" alt="Zytor Img4"/>
-<img src="./Images/img5.jpg" width="120" alt="Zytor Img5"/>
-<img src="./Images/img6.jpg" width="120" alt="Zytor Img6"/>
-<img src="./Images/img7.jpg" width="120" alt="Zytor Img7"/>
-<img src="./Images/img8.jpg" width="120" alt="Zytor Img8"/>
-<img src="./Images/img9.jpg" width="120" alt="Zytor Img9"/>
-<img src="./Images/img10.jpg" width="120" alt="Zytor Img10"/>
-<img src="./Images/img11.jpg" width="120" alt="Zytor Img11"/>
+<img src="https://zytor.vercel.app/screenshots/downloaderhomepage.jpg" width="120" alt="Downloader Home Page"/>
+<img src="https://zytor.vercel.app/screenshots/urlpastedrawer.jpg" width="120" alt="URL Paste Drawer"/>
+<img src="https://zytor.vercel.app/screenshots/fetchingmediadetailsdrawer.jpg" width="120" alt="Fetching Media Details Drawer"/>
+<img src="https://zytor.vercel.app/screenshots/downloadconfigurationdrawer.jpg" width="120" alt="Download Configuration Drawer"/>
+<img src="https://zytor.vercel.app/screenshots/downloadingbiggrid.jpg" width="120" alt="Downloading Big Grid"/>
+<img src="https://zytor.vercel.app/screenshots/pausedbiggrid.jpg" width="120" alt="Paused Big Grid"/>
+<img src="https://zytor.vercel.app/screenshots/downloadcompleted.jpg" width="120" alt="Download Completed"/>
+<img src="https://zytor.vercel.app/screenshots/downloadingturbobolton.jpg" width="120" alt="Downloading Turbobolt On"/>
+<img src="https://zytor.vercel.app/screenshots/pausedsmallgrid.jpg" width="120" alt="Paused Small Grid"/>
+<img src="https://zytor.vercel.app/screenshots/pausedlist.jpg" width="120" alt="Paused List"/>
+<img src="https://zytor.vercel.app/screenshots/turboboltengine.jpg" width="120" alt="Turbobolt Engine"/>
+<img src="https://zytor.vercel.app/screenshots/uiuxpersonalization.jpg" width="120" alt="UI UX Personalization"/>
+<img src="https://zytor.vercel.app/screenshots/settings.jpg" width="120" alt="Settings"/>
+<img src="https://zytor.vercel.app/screenshots/support.jpg" width="120" alt="Support"/>
+<img src="https://zytor.vercel.app/screenshots/updates.jpg" width="120" alt="Updates"/>
 </p>
 
 ## 🚀 What's New (v1.1.0)
