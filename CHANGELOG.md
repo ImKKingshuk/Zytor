@@ -11,6 +11,29 @@ Zytor uses two release channels:
 - **Beta** — Early access to experimental features. May contain bugs, UI changes, or unfinished modules.  
   *(Example: `v1.5.0-beta`)*
 
+## [1.5.0] - 2026-10-28
+
+### 🎨 UI/UX Improvements
+
+- **Liquid Glass redesign** — A refreshed visual experience with a polished, cohesive interface across the app.
+- **Responsive UI** — Navigation, tabs, cards, sheets, inputs, switches, and sliders now adapt consistently across screen sizes.
+- **Accessibility and layout fixes** — Improved readability, touch targets, spacing, and layout behavior throughout the app.
+- **Refined search** — A sleeker search bar that opens and closes smoothly, and the keyboard now closes when you tap outside or go back.
+- **Polished details** — Softer header blur and a navigation bar placed for easier reach.
+
+### ⚡ Performance
+
+- **Smoother everywhere** — Faster, more fluid scrolling, sheets, and animations throughout the app.
+
+### 🌍 Localization
+
+- **Complete translations** — Updated translations across all 13 supported locales for a consistent experience in every supported language.
+
+### 🔄 Updates and Reliability
+
+- **Automatic app updates** — More reliable update checks and installation flow.
+- **Reliability fixes** — Resolved issues across everyday app flows for a more dependable experience.
+
 ## [1.2.0] - 2026-04-20
 
 ### ✨ New Features
@@ -22,7 +45,7 @@ Zytor uses two release channels:
 
 ### 🔧 Technical Improvements
 
-- **Bleeding Edge Stack** — Migrated to **Java 25**, and **Kotlin 2.2** for maximum runtime performance.
+- **Bleeding Edge Stack** — Migrated to **Java 25**, and **Kotlin 2.2** for the fastest builds and maximum runtime performance.
 - **Extreme Download Speed** — Fine-tuned the internal engine to push data throughput to its absolute limit.
 
 ### 🐛 Bug Fixes
@@ -53,7 +76,7 @@ Zytor uses two release channels:
 - **TurboBolt Speed Booster** — Up to **500% faster** downloads when enabled
 - **Extreme Parallelization** — Support for up to **32 simultaneous connections per server** for lightning-fast speeds
 - **Advanced File Splitting** — Split files into up to **64 segments** for maximum bandwidth utilization
-- **Adaptive Segmentation** — Configurable **minimum split size (1M-20M)** to optimize performance for different file types
+- **Adaptive Segmentation** — Configurable minimum split size (1M-20M) to optimize performance for different file types
 - **Resumable Downloads** — Native support for continuing interrupted or partial downloads without data loss
 - **Unlimited Speed Mode** — Toggle to remove any bandwidth restrictions for uncapped downloading
 - **Optimized Network Logic** — Automated retry logic and optimized data handling for high-performance transfers
@@ -68,7 +91,7 @@ Zytor uses two release channels:
 ### 🎨 UI/UX Improvements
 
 - Modern animated progress indicators
-- Smart floating button that hides/shows on scroll
+- Smart floating action button that hides/shows on scroll
 - Accurate quality labels for portrait/vertical videos
 - Dark theme now enabled by default
 
